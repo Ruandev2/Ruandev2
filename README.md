@@ -24,7 +24,7 @@
      <img  align="center" alt="HTML5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div><br>
 
-<h1> Apaixonado por tecnogia  gosto muito de aprender outras tecnologias,em busca de uma Oportunidade na area de Programaçao</H1> 
+<h1> Apaixonado por tecnologia  gosto muito de aprender outras tecnologias,em busca de uma Oportunidade na area de Programaçao</H1> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanDev1&show_icons=true )
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
