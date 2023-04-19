@@ -35,3 +35,6 @@
   * <a href="https://dsvendas-ruanrodrigues.netlify.app/" target="_blank" rel="noopener noreferrer">Projeto-sds3</a><br>
 * dsmovie
   * <a href="https://ruan-dsmovie.netlify.app/" target="_blank" rel="noopener noreferrer">Dsmovie</a><br>
+* Projeto Mini-Blog
+  * <a href="https://projeto-miniblog.netlify.app/" target="_blank" rel="noopener noreferrer">MiniBlog</a><br>
+  
