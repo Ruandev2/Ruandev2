@@ -1,5 +1,5 @@
 <h1>Olá Bem Vindo  ao Meu espaço. 👋</h1>
-
+<hr>
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-rodrigues-dos-santos-7b9860234/)
@@ -11,7 +11,7 @@
 ![Ruandev2 GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanDev2&show_icons=true&theme=dark)
 
 <h2> Tecnologias que eu uso no meu Dia</h2>
-
+<hr>
 <div style="display: inline_block"><br/>
      <img  align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
      <img  align="center" alt="HTML5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -25,12 +25,7 @@
 <p> Apaixonado por tecnologia  gosto muito de aprender outras tecnologias,em busca de uma Oportunidade na area de Programaçao</p> 
 
 <h2>Ultimos Projetos</h2>
-
-* projeto-sds3
-  * <a href="https://dsvendas-ruanrodrigues.netlify.app/" target="_blank" rel="noopener noreferrer">Projeto-sds3</a><br>
-* dsmovie
-  * <a href="https://ruan-dsmovie.netlify.app/" target="_blank" rel="noopener noreferrer">Dsmovie</a><br>
-* Projeto Mini-Blog
+<hr>
   * <a href="https://projeto-miniblog.netlify.app/" target="_blank" rel="noopener noreferrer">MiniBlog</a><br>
 * Projeto Angula Blog
   * <a href="https://angular-blog-silk.vercel.app/" target="_blank" rel="noopener noreferrer"> Projeto Angula Blog</a><br>
