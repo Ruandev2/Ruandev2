@@ -37,9 +37,9 @@
 * Projeto Pokedex
   * <a href="https://ruandev2.github.io/js-developer-pokedex/" target="_blank" rel="noopener noreferrer">Projeto Pokedex</a><br>
 * Projeto-BuzzFeed
-  * <a href="https://jogo-numero-secreto-nu-wheat.vercel.app/" target="_blank" rel="noopener noreferrer">-Projeto-BuzzFeed</a><br>
+  * <a href="https://ruandev2.github.io/Desafio-Dio-Projeto-BuzzFeed/" target="_blank" rel="noopener noreferrer">-Projeto-BuzzFeed</a><br>
 * Projeto-Jogo-numero-secreto
-  * <a href="jogo-numero-secreto-nu-wheat.vercel.app/" target="_blank" rel="noopener noreferrer">Jogo-numero-secreto</a><br>
+  * <a href="https://jogo-numero-secreto-nu-wheat.vercel.app/" target="_blank" rel="noopener noreferrer">Jogo-numero-secreto</a><br>
 * Projeto-Decodificador--texto
   * <a href="https://decodificador-texto-alpha.vercel.app/" target="_blank" rel="noopener noreferrer">-Projeto-Decodificador--texto</a><br>
 
