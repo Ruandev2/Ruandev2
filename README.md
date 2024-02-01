@@ -1,8 +1,6 @@
 <h1>Olá Bem Vindo  ao Meu espaço. 👋</h1>
 
-
- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  width="230"/>
-  <div id="badges">
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-rodrigues-dos-santos-7b9860234/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
@@ -24,10 +22,7 @@
      <img  align="center" alt="HTML5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div><br>
 
-<h3> Apaixonado por tecnologia  gosto muito de aprender outras tecnologias,em busca de uma Oportunidade na area de Programaçao</h3> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanDev1&show_icons=true )
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<p> Apaixonado por tecnologia  gosto muito de aprender outras tecnologias,em busca de uma Oportunidade na area de Programaçao</p> 
 
 <h2>Ultimos Projetos</h2>
 
@@ -37,4 +32,16 @@
   * <a href="https://ruan-dsmovie.netlify.app/" target="_blank" rel="noopener noreferrer">Dsmovie</a><br>
 * Projeto Mini-Blog
   * <a href="https://projeto-miniblog.netlify.app/" target="_blank" rel="noopener noreferrer">MiniBlog</a><br>
+* Projeto Angula Blog
+  * <a href="angular-blog-silk.vercel.app" target="_blank" rel="noopener noreferrer"> Projeto Angula Blog</a><br>
+* Projeto Pokedex
+  * <a href="https://ruandev2.github.io/js-developer-pokedex/" target="_blank" rel="noopener noreferrer">Projeto Pokedex</a><br>
+* Projeto-BuzzFeed
+  * <a href="ruandev2.github.io/Desafio-Dio-Projeto-" target="_blank" rel="noopener noreferrer">-Projeto-BuzzFeed</a><br>
+* Projeto-Jogo-numero-secreto
+  * <a href="jogo-numero-secreto-nu-wheat.vercel.ap" target="_blank" rel="noopener noreferrer">Jogo-numero-secreto</a><br>
+* Projeto-Decodificador--texto
+  * <a href="https://decodificador-texto-alpha.vercel.app/" target="_blank" rel="noopener noreferrer">-Projeto-Decodificador--texto</a><br>
+
+  
   
