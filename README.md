@@ -26,7 +26,7 @@
 
 <h2>Ultimos Projetos</h2>
 <hr>
-  * <a href="https://projeto-miniblog.netlify.app/" target="_blank" rel="noopener noreferrer">MiniBlog</a><br>
+
 * Projeto Angula Blog
   * <a href="https://angular-blog-silk.vercel.app/" target="_blank" rel="noopener noreferrer"> Projeto Angula Blog</a><br>
 * Projeto Pokedex
