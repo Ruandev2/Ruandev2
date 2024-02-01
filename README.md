@@ -33,13 +33,13 @@
 * Projeto Mini-Blog
   * <a href="https://projeto-miniblog.netlify.app/" target="_blank" rel="noopener noreferrer">MiniBlog</a><br>
 * Projeto Angula Blog
-  * <a href="angular-blog-silk.vercel.app" target="_blank" rel="noopener noreferrer"> Projeto Angula Blog</a><br>
+  * <a href="https://angular-blog-silk.vercel.app/" target="_blank" rel="noopener noreferrer"> Projeto Angula Blog</a><br>
 * Projeto Pokedex
   * <a href="https://ruandev2.github.io/js-developer-pokedex/" target="_blank" rel="noopener noreferrer">Projeto Pokedex</a><br>
 * Projeto-BuzzFeed
-  * <a href="ruandev2.github.io/Desafio-Dio-Projeto-" target="_blank" rel="noopener noreferrer">-Projeto-BuzzFeed</a><br>
+  * <a href="https://jogo-numero-secreto-nu-wheat.vercel.app/" target="_blank" rel="noopener noreferrer">-Projeto-BuzzFeed</a><br>
 * Projeto-Jogo-numero-secreto
-  * <a href="jogo-numero-secreto-nu-wheat.vercel.ap" target="_blank" rel="noopener noreferrer">Jogo-numero-secreto</a><br>
+  * <a href="jogo-numero-secreto-nu-wheat.vercel.app/" target="_blank" rel="noopener noreferrer">Jogo-numero-secreto</a><br>
 * Projeto-Decodificador--texto
   * <a href="https://decodificador-texto-alpha.vercel.app/" target="_blank" rel="noopener noreferrer">-Projeto-Decodificador--texto</a><br>
 
