@@ -30,26 +30,26 @@
 * Projeto Portfolio
   * <a href="https://portfolio-three-brown-83.vercel.app/" target="_blank" rel="noopener 
 noreferrer"> Link acesso</a><br>
-<img src="https://github.com/Ruandev2/Ruandev2/assets/93599287/81764f00-7399-40d8-a207-7a9a339fdcad" alt="Foto Portifolio" width="350">
+
 
 * Projeto Angula Blog
   * <a href="https://angular-blog-silk.vercel.app/" target="_blank" rel="noopener noreferrer"> Link acesso</a><br>
-<img src="https://github.com/Ruandev2/Ruandev2/assets/93599287/6de05301-48c5-4f85-bbe5-0803e5a0ee5a" alt="Foto Portifolio" width="350">
+
 
 * Projeto Pokedex
   * <a href="https://ruandev2.github.io/js-developer-pokedex/" target="_blank" rel="noopener noreferrer">Link acesso</a><br>
-<img src="https://github.com/Ruandev2/Ruandev2/assets/93599287/5a704b96-2d03-4383-848f-7770ca5935df" alt="Foto Portifolio" width="350">
+
   
 * Projeto-BuzzFeed
   * <a href="https://ruandev2.github.io/Desafio-Dio-Projeto-BuzzFeed/" target="_blank" rel="noopener noreferrer">Link acesso</a><br>
-<img src="https://github.com/Ruandev2/Ruandev2/assets/93599287/b5579a82-68e5-4f68-9b00-8c9da85cccb4" alt="Foto Portifolio" width="350">
+
 
 * Projeto-Jogo-numero-secreto
   * <a href="https://jogo-numero-secreto-nu-wheat.vercel.app/" target="_blank" rel="noopener noreferrer">Link acesso</a><br>
-<img src="https://github.com/Ruandev2/Ruandev2/assets/93599287/72fd86bd-30fd-4145-92fc-89c6063ae145" alt="Foto Portifolio" width="350">
+
 
 * Projeto-Decodificador--texto
   * <a href="https://decodificador-texto-alpha.vercel.app/" target="_blank" rel="noopener noreferrer">Link acesso</a><br>
-<img src="https://github.com/Ruandev2/Ruandev2/assets/93599287/411628cc-110d-4798-9fb5-0f37cc2d9bcf" alt="Foto Portifolio" width="350">
+
 
   
