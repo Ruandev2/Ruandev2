@@ -23,33 +23,3 @@
 </div><br>
 
 <p> Apaixonado por tecnologia  gosto muito de aprender outras tecnologias,em busca de uma Oportunidade na area de Programaçao</p> 
-
-<h2>Ultimos Projetos</h2>
-<hr>
-
-* Projeto Portfolio
-  * <a href="https://portfolio-three-brown-83.vercel.app/" target="_blank" rel="noopener 
-noreferrer"> Link acesso</a><br>
-
-
-* Projeto Angula Blog
-  * <a href="https://angular-blog-silk.vercel.app/" target="_blank" rel="noopener noreferrer"> Link acesso</a><br>
-
-
-* Projeto Pokedex
-  * <a href="https://ruandev2.github.io/js-developer-pokedex/" target="_blank" rel="noopener noreferrer">Link acesso</a><br>
-
-  
-* Projeto-BuzzFeed
-  * <a href="https://ruandev2.github.io/Desafio-Dio-Projeto-BuzzFeed/" target="_blank" rel="noopener noreferrer">Link acesso</a><br>
-
-
-* Projeto-Jogo-numero-secreto
-  * <a href="https://jogo-numero-secreto-nu-wheat.vercel.app/" target="_blank" rel="noopener noreferrer">Link acesso</a><br>
-
-
-* Projeto-Decodificador--texto
-  * <a href="https://decodificador-texto-alpha.vercel.app/" target="_blank" rel="noopener noreferrer">Link acesso</a><br>
-
-
-  
